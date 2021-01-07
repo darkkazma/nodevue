@@ -1,6 +1,6 @@
 Name: nodeview
 Version: 1.0.1
-Release: 1
+Release: 1-1
 Summary: darkkazma nodeview
 
 Group: System Enviroment/Daemons
